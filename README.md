@@ -47,4 +47,4 @@ In this example, we will download an OSM map using the osmWebWizard.py tool whic
 
 ## More information
 
-https://omnetpp.org/doc/inet/api-current/tutorials/wireless/step11.html
+https://inet.omnetpp.org/docs/tutorials/wireless/doc/step11.html
